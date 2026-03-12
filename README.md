@@ -34,7 +34,7 @@ the embeddable Python zip automatically, then launches the GUI.
 
 ### macOS
 ```bash
-chmod +x launch.command launch.sh
+chmod +x launch.command
 ```
 Then double-click **`launch.command`** in Finder.  
 *(If blocked: right-click → Open → Open)*
